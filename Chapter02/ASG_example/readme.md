@@ -1,0 +1,1 @@
+### This directory contains simple example of how to use AWS ELB and AWS Auto Scaling Groups.

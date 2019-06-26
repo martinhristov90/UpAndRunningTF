@@ -1,0 +1,1 @@
+### This is example of how to create zero downtime deployment, it uses pretty interesting concepts, there are comments in the code.

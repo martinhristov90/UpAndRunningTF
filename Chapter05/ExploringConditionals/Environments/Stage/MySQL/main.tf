@@ -6,7 +6,7 @@ provider "aws" {
 module "mysql" {
   source = "../../../Modules/MySQL"
 
-  db_password       = "9dc2(UfFobG;E_:)"
+  db_password       = "my_password"
   db_username       = "admin"
   db_name           = "example_database"
   instance_class    = "db.t2.micro"
